@@ -1,9 +1,6 @@
 
 <h1>Chronovore</h1>
 
-<h3>About This Project</h3>
-<p align="justify">lorem</p>
-
 <h3>Project Info</h3>
 * Editor Version : Unity 2022.3.5f1
 
