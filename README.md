@@ -5,22 +5,26 @@
 <p align="justify">lorem</p>
 
 <h3>Project Info</h3>
+* Editor Version : Unity 2022.3.5f1
 
-| **Role** | **Team Size** | **Development Time** | **Engine** |
-|----------|---------------|---------------------|------------|
-| Game Programmer | 2 | 3 Weeks | Unity 2022 |
+| **Name** | **Role** | **Development Time** |
+|----------|----------|----------------------|
+| Mario Valent Wibowo | Game Programmer | 9 days |
+| Philips Sanjaya | Game Programmer | 7 days |
+| Totti Adithana Sunarto | Game Programmer | 4 days |
+| Justin Tjokro | Game Designer | 7 days |
 
 ## 👤Developer
 - Mario Valent Wibowo (Lead Programmer)
 - Philips Sanjaya (Programmer)
-- Totti Adithana (Technical Programmer)
+- Totti Adithana (Technical Programmer & UI)
 - Justin Tjokro (Game Designer)
 
 <h3>Game Description</h3>
 <p align="justify">loren
 </p>
 
-<h3>Target Gameplay</h3>
+<h3>Target Audience</h3>
 <p align="justify">lorem</p>
 
 # Game Mechanics I Created
@@ -36,9 +40,6 @@
 <h3>mekanik</h3>
 <p align="justify">lorem</p>
 
-
-<h3>What I Learned</h3>
-<p align="justify">lorem</p>
 
 ## Files description
 
